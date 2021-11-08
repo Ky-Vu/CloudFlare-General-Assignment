@@ -1,0 +1,6 @@
+Git Credentials:
+Username: LshN3f37mKxeZWTsjcir3B
+Password: pPj2pJty
+
+Workers URL: https://my-worker.kytvu1-test.workers.dev/
+Pages URL: 
