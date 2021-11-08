@@ -1,0 +1,11 @@
+name = "my-website"
+type = "webpack"
+account_id = "abef6135443187225eb7d5bea7d2e068"
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "webpack.config.js"
+compatibility_date = "2021-11-04"
+kv_namespaces = [
+    { binding = "FILES", preview_id = "e7436e9edb39411aa23365dc73b838de" }
+]
